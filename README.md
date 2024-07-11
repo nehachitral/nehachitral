@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Neha Chitral</h1>
+<h1 align="center">Hi 👋, I'm C Neha</h1>
 <h3 align="center">A passionate frontend developer and also keen on leaning new skills</h3>
 
 - 🔭 I’m currently working on [Library Managment System](https://github.com/nehachitral/Unix-Shell-Library-Mangement-System.git)
